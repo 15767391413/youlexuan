@@ -1,4 +1,4 @@
 spring:
   redis:
-    port: 9999
-    host: 192.167.188.128
+    port: 8888
+    host: 192.167.188.127
